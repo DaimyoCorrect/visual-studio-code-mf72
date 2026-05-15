@@ -1,4 +1,4 @@
-# 
+# Enhance Visual Studio Code for PC | Visual Studio Code for Windows with premium Visual Studio Code for PC | Visual Studio Code for Windows Helper | linting + search-and-replace,
 
 
 
